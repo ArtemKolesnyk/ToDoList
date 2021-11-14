@@ -38,7 +38,7 @@ body {
 
   /* Darker background-color on hover */
   ul li:hover {
-    background: rgb(179, 98, 98);
+    background: rgb(122, 118, 118);
   }
 
   /* When clicked on, add a background color and strike out text */
@@ -71,13 +71,13 @@ body {
   }
 
   .close:hover {
-    background-color: #f44336;
+    background-color: #f51a0a;
     color: white;
   }
 
   /* Style the header */
   .header {
-    background-color: #f44336;
+    background-color: rgb(12, 208, 243);
     padding: 30px 40px;
     color: white;
     text-align: center;
@@ -99,14 +99,14 @@ body {
     padding: 10px;
     float: left;
     font-size: 16px;
-    border: solid black;
+    
   }
 
   /* Style the "Add" button */
   .addBtn {
     padding: 10px;
     width: 25%;
-    background: #d9d9d9;
+    background: yellow;
     color: #555;
     float: left;
     text-align: center;
@@ -114,7 +114,7 @@ body {
     cursor: pointer;
     transition: 0.3s;
     border-radius: 0;
-    border: solid black;
+    
   }
 
   .addBtn:hover {
